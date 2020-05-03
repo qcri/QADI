@@ -9,7 +9,7 @@ The dataset contains 540590 tweets from 18 country, representing most contries f
 The data is distributed accordingly:
 
 
-| Country  | Train | Test|
+| Country*  | Train | Test|
 |:-------|:-----:|:-----:|
 | AE | 2781 | 192 |
 | BH | 2829 | 184 |
@@ -30,10 +30,13 @@ The data is distributed accordingly:
 | TN | 1294 | 154 |
 | YE | 1156 | 193 |
 
+\* Country names are provided using [ISO-3166-1](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) codes.
 
 ## Download the dataset
 To download the data, you may used `twarc` to hydrate the tweets. 
-`twarc dataset/tweetsCountryID.txt`
+
+```twarc dataset/tweetsCountryID.txt```
+
 The tweets are arranged per country. Each file is a list of ids for the tweets from the designated country.
  
 
