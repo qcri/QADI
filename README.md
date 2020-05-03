@@ -5,30 +5,29 @@ Country level Arabic dialect identification (DI) dataset.
 The dataset provide a dataset for benchmarking DI task.
 
 ## QADI Dataset
-The dataset contains 540590 tweets from 18 country, representing most contries from Arab world.
-The data is distributed accordingly:
+The dataset contains 540,590 tweets from 18 Arab countries. The data is distributed according to the following table:
 
 
 | Country*  | Train | Test|
 |:-------|:-----:|:-----:|
-| AE | 27819 | 192 |
-| BH | 28295 | 184 |
-| DZ | 17603 | 170 |
-| EG | 67783 | 200 |
-| IQ | 18367 | 178 |
-| JO | 34109 | 180 |
-| KW | 49963 | 190 |
-| LB | 38386 | 194 |
-| LY | 40883 | 169 |
-| MA | 12813 | 178 |
-| OM | 24786 | 169 |
-| PL | 48641 | 173 |
-| QA | 36675 | 198 |
-| SA | 35396 | 199 |
-| SD | 16251 | 188 |
-| SY | 18317 | 194 |
-| TN | 12940 | 154 |
-| YE | 11563 | 193 |
+| AE | 27,819 | 192 |
+| BH | 28,295 | 184 |
+| DZ | 17,603 | 170 |
+| EG | 67,783 | 200 |
+| IQ | 18,367 | 178 |
+| JO | 34,109 | 180 |
+| KW | 49,963 | 190 |
+| LB | 38,386 | 194 |
+| LY | 40,883 | 169 |
+| MA | 12,813 | 178 |
+| OM | 24,786 | 169 |
+| PL | 48,641 | 173 |
+| QA | 36,675 | 198 |
+| SA | 35,396 | 199 |
+| SD | 16,251 | 188 |
+| SY | 18,317 | 194 |
+| TN | 12,940 | 154 |
+| YE | 11,563 | 193 |
 
 \* Country names are provided using [ISO-3166-1](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) codes.
 
