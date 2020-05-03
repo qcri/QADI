@@ -2,10 +2,10 @@
 QCRI Arabic Dialect Identification (QADI)
 
 Country level Arabic dialect identification (DI) dataset.
-The dataset provide a dataset for benchmarking DI task.
+It provides a collection for benchmarking DI task.
 
 ## QADI Dataset
-The dataset contains 540,590 tweets from 18 Arab countries. The data is distributed according to the following table:
+The dataset contains 540,590 tweets from 18 Arab countries. The data is distributed according to the following table§:
 
 
 | Country*  | Train | Test|
