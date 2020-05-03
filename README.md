@@ -32,7 +32,7 @@ The dataset contains 540,590 tweets from 18 Arab countries. The data is distribu
 \* Country names are provided using [ISO-3166-1](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) codes.
 
 ## Download the dataset
-To download the data, you may used `twarc` to hydrate the tweets. 
+To download the data, after cloning the repository or downloading its content. The dataset files contains ids for the all the tweets identified as from the designated country. you may used `twarc` or other Twitter Scraping tools to hydrate the tweets. 
 
 ```twarc dataset/tweetsCountryID.txt```
 
